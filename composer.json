@@ -1,9 +1,10 @@
 {
-    "name": "anhsonxui/BE2_EndGame",
-    "repositories": [
+    "name": "anhsonxui/backendweb",
+    "authors": [
         {
-            "type": "anhsonxui",
-            "url": "http://packages.example.com"
+            "name": "anhsonxui",
+            "email": "anhsonxui@gmail.com"
         }
-    ]
+    ],
+    "require": {}
 }
